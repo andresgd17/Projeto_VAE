@@ -3,3 +3,5 @@ This project is about esting a Variational auto encoder (VAE) algorithm to recon
 
 ## Learning curves
 ### E_rec vs E_true
+
+## Matrix confusion
